@@ -28,6 +28,11 @@ This project uses IBM Watson Studio's AutoAI to predict the most suitable NSAP s
 4. Deployment: Deployed model using Watson Machine Learning with REST API.
 5. Testing: Real-time prediction via UI and CSV input.
 
+## 📈 Results
+- Best Model: Snap Random Forest Classifier
+- Accuracy Achieved: 98.4%
+- Deployment: Enabled real-time scheme prediction for new input data.
+
 ## Deployment
 Model deployed using IBM Watson ML with an API endpoint for live predictions.
 
