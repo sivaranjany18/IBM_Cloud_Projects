@@ -21,6 +21,13 @@ This project uses IBM Watson Studio's AutoAI to predict the most suitable NSAP s
 - Aadhaar/mobile availability
 - Total beneficiaries
 
+## ⚙️ Project Workflow
+1. Data Collection: District-wise NSAP beneficiary data.
+2. Data Preprocessing: Cleaning, encoding, normalization.
+3. Model Building: AutoAI-generated pipelines using Snap Random Forest Classifier.
+4. Deployment: Deployed model using Watson Machine Learning with REST API.
+5. Testing: Real-time prediction via UI and CSV input.
+
 ## Deployment
 Model deployed using IBM Watson ML with an API endpoint for live predictions.
 
